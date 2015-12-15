@@ -1,5 +1,5 @@
 # EmojiFizzBuzz - just for fun
-
+Fizz buzz in Swift with emojis
 ```swift
 func 💤🐝(🅰: 🔢) -> 📝 {
     switch (🅰 % 👪 == 💩, 🅰 % 👋 == 💩) {
